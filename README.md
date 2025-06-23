@@ -32,34 +32,38 @@ LucidPages transforms how you consume web content. Instead of spending minutes r
 ## 🎯 Key Features
 
 <table>
-<tr>
-<td align="center">⚡</td>
-<td><strong>Instant Summaries</strong><br>One-click AI-powered summaries using Google Gemini</td>
-</tr>
-<tr>
-<td align="center">🧠</td>
-<td><strong>Smart Content Detection</strong><br>Automatically extracts main content using Mozilla Readability</td>
-</tr>
-<tr>
-<td align="center">🎨</td>
-<td><strong>Beautiful Interface</strong><br>Modern design with seamless dark/light theme support</td>
-</tr>
-<tr>
-<td align="center">📋</td>
-<td><strong>Copy & Share</strong><br>Instantly copy summaries to clipboard for notes and sharing</td>
-</tr>
-<tr>
-<td align="center">🔍</td>
-<td><strong>Fullscreen Reading</strong><br>Distraction-free reading mode for focused consumption</td>
-</tr>
-<tr>
-<td align="center">💾</td>
-<td><strong>Smart Caching</strong><br>Local storage prevents redundant API calls</td>
-</tr>
-<tr>
-<td align="center">🔒</td>
-<td><strong>Privacy First</strong><br>Zero tracking, no data collection, complete privacy</td>
-</tr>
+  <tr>
+    <td align="center">⚡</td>
+    <td><strong>Instant Summaries</strong><br>One-click AI-powered summaries using Google Gemini</td>
+  </tr>
+  <tr>
+    <td align="center">💬</td>
+    <td><strong>Chat with AI</strong><br>Ask questions, get clarifications, and gain deeper insights into the page</td>
+  </tr>
+  <tr>
+    <td align="center">🧠</td>
+    <td><strong>Smart Content Detection</strong><br>Automatically extracts main content using Mozilla Readability</td>
+  </tr>
+  <tr>
+    <td align="center">🎨</td>
+    <td><strong>Beautiful Interface</strong><br>Modern design with seamless dark/light theme support</td>
+  </tr>
+  <tr>
+    <td align="center">📋</td>
+    <td><strong>Copy & Share</strong><br>Instantly copy summaries to clipboard for notes and sharing</td>
+  </tr>
+  <tr>
+    <td align="center">🔍</td>
+    <td><strong>Fullscreen Reading</strong><br>Distraction-free reading mode for focused consumption</td>
+  </tr>
+  <tr>
+    <td align="center">💾</td>
+    <td><strong>Smart Caching</strong><br>Local storage prevents redundant API calls and saves time</td>
+  </tr>
+  <tr>
+    <td align="center">🔒</td>
+    <td><strong>Privacy First</strong><br>Zero tracking, no data collection, complete privacy</td>
+  </tr>
 </table>
 
 ---
@@ -84,15 +88,25 @@ LucidPages transforms how you consume web content. Instead of spending minutes r
 ### Usage
 
 1. Open any article
-2. Click LucidPages
-3. Hit "Summarize Page"
-4. Read summary
+2. Click **LucidPages**
+3. Hit **"Summarize Page"** to get an instant summary
+4. Or click **"Ask AI"** to chat about the content
+5. Read, interact, and explore
 
 **That's it!** No setup, no API keys, no configuration required.
 
 ---
 
 ## 🛠️ Advanced Features
+
+### 💬 **Ask AI (Interactive Chat)**
+
+- Chat with AI about the current webpage
+- Ask follow-up questions and get deeper insights
+- Perfect for understanding complex topics, analyzing content, or brainstorming ideas
+- Fully context-aware — the AI uses the content of the page you're viewing
+- Smart memory — the AI remembers your earlier questions and responses
+- Revisit previous chats — chat history is saved locally
 
 ### 🎨 **Theme Customization**
 
@@ -133,7 +147,7 @@ LucidPages transforms how you consume web content. Instead of spending minutes r
 </div>
 
 - **Frontend**: Vanilla JavaScript, Modern CSS3, Semantic HTML5
-- **AI Engine**: Google Gemini API for intelligent summarization
+- **AI Engine**: Google Gemini API for intelligent summarization and responses
 - **Content Processing**: Mozilla Readability for clean content extraction
 - **Architecture**: Chrome Extension Manifest V3 compliance
 - **Design**: Mobile-first responsive design with accessibility focus
