@@ -24,6 +24,13 @@ LucidPages is a Chrome extension that transforms webpage content into intelligen
 - **Temporary Cache**: Recent summaries cached locally to improve performance
 - **Your Control**: All local data can be cleared through browser settings
 
+### Conversation History
+
+- **Local-Only Chat History**: Conversations with the AI are saved **only on your device**
+- **No Cloud Storage**: We never transmit or store chat history on any external servers
+- **Session Awareness**: The AI remembers your recent conversations for a better experience — all within your current browser
+- **User Control**: You can clear the chat history for the current website using the built-in **"Clear History"** option
+
 ---
 
 ## ❌ What We Never Do
