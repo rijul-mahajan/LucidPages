@@ -41,6 +41,18 @@ LucidPages transforms how you consume web content. Instead of spending minutes r
     <td><strong>Chat with AI</strong><br>Ask questions, get clarifications, and gain deeper insights into the page</td>
   </tr>
   <tr>
+    <td align="center">🚀</td>
+    <td><strong>Quick Access Icon</strong><br>Instantly summarize any page with a floating icon</td>
+  </tr>
+  <tr>
+    <td align="center">✂️</td>
+    <td><strong>Highlight-to-Summarize</strong><br>Select text anywhere and get a focused summary</td>
+  </tr>
+  <tr>
+    <td align="center">📑</td>
+    <td><strong>PDF Summarization</strong><br>Summarize academic papers, reports, and PDFs with ease</td>
+  </tr>
+  <tr>
     <td align="center">🧠</td>
     <td><strong>Smart Content Detection</strong><br>Automatically extracts main content using Mozilla Readability</td>
   </tr>
