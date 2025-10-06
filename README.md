@@ -53,6 +53,18 @@ LucidPages transforms how you consume web content. Instead of spending minutes r
     <td><strong>PDF Summarization</strong><br>Summarize academic papers, reports, and PDFs with ease</td>
   </tr>
   <tr>
+    <td align="center">🕒</td>
+    <td><strong>Summary History</strong><br>Access and revisit your previously generated summaries anytime</td>
+  </tr>
+  <tr>
+    <td align="center">🌐</td>
+    <td><strong>Multi-Language Support</strong><br>Generate summaries in multiple languages for global accessibility</td>
+  </tr>
+  <tr>
+    <td align="center">🔊</td>
+    <td><strong>Listen to Summaries</strong><br>Convert summaries to speech for hands-free reading</td>
+  </tr>
+  <tr>
     <td align="center">🧠</td>
     <td><strong>Smart Content Detection</strong><br>Automatically extracts main content using Mozilla Readability</td>
   </tr>
@@ -285,7 +297,7 @@ We welcome contributions! Here's how you can help:
 
 **Made with ❤️ by [Rijul Mahajan](https://github.com/rijul-mahajan)**
 
-_Join thousands of users who've already transformed their web reading experience_
+_Join hundreds of users who've already transformed their web reading experience_
 
 ---
 
