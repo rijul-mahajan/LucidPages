@@ -5,6 +5,21 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.7.0]
+
+### Added
+- **Summary History**: Access and revisit previously generated summaries anytime.  
+- **Multi-Language Support**: Generate summaries in multiple languages for global accessibility.  
+- **Listen to Summaries (Text-to-Speech)**: Convert summaries to speech for hands-free reading.  
+
+### Changed
+- **UI Enhancements**: Modernized interface with refined icons, improved animations, and better responsiveness.  
+
+### Fixed
+- Minor bug fixes and improvements.  
+
+---
+
 ## [1.6.1]
 
 ### Fixed
